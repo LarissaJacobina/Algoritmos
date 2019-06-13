@@ -1,5 +1,6 @@
 //10. Faça um programa em C que tenha 4 funções, para as quatro operações matemáticas (com retorno void); Cada função deve fazer a operação matemática usando como parâmetros 2 valores passados como ponteiros.
 
+#include<stdio.h>
 
 int soma(int* N1, int* N2)
 {
